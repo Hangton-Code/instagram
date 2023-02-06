@@ -1,0 +1,17 @@
+{
+  "autorun": true,
+  "autokill": true,
+  "terminals": [
+    {
+      "name": "PocketBase Server",
+      "commands": ["cd C:/Computer/PocketBase", "./pocketbase serve"]
+    },
+    {
+      "name": "Next.Js",
+      "commands": ["yarn dev"]
+    },
+    {
+      "name": "Terminal"
+    }
+  ]
+}
